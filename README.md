@@ -1,2 +1,0 @@
-# Grimacecoin
-Sourcecode
